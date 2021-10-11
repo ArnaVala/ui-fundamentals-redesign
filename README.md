@@ -17,6 +17,8 @@ continues throughout, and used golden lines for section divisions.
 - I created a table reservation form, and tried to structure the site's so that important info 
 - such as opening times, reservation etc is displayed more prominently.
 
+<img src="Screenshot 2021-10-11 at 0.50.04.png" alt="Ítalía webpage hero" width="600"/>.
+
 ## UI design priciples used in this project
 
 ### Whitespace
