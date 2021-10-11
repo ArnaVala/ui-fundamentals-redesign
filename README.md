@@ -23,7 +23,7 @@ Homepage Design:
 
 Menu Design:
 
-<img src="Italía-matseðill.png" alt="Ítalía menu page" width="600"/>.
+<img src="Ítalía-matseðill.png" alt="Ítalía menu page" width="600"/>.
 
 ## UI design priciples used in this project
 
