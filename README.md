@@ -2,9 +2,12 @@
 
 ## Redesign for Italia restaurant website
 
-Figma file to redesign: [Figma project](https://www.figma.com/file/Ru1ewr9WCf0rJhwOSGO0Gv/Ítalía-Redesign?node-id=0%3A1)
-Figma Prototype - (only 'matseðill' menu-link works to navigate to menu page): [Figma project](https://www.figma.com/proto/Ru1ewr9WCf0rJhwOSGO0Gv/Ítalía-Redesign?page-id=0%3A1&node-id=1%3A111&viewport=401%2C48%2C0.09&scaling=scale-down&starting-point-node-id=1%3A111)  
-
+[Figma redesign](https://www.figma.com/file/Ru1ewr9WCf0rJhwOSGO0Gv/Ítalía-Redesign?node-id=0%3A1)
+<br>
+[Figma prototype](https://www.figma.com/proto/Ru1ewr9WCf0rJhwOSGO0Gv/Ítalía-Redesign?page-id=0%3A1&node-id=1%3A111&viewport=401%2C48%2C0.09&scaling=scale-down&starting-point-node-id=1%3A111)
+<br>
+NB! only 'matseðill' menu-link works to navigate to menu page
+<br>
 
 - I designed the front page and food menu page.
 - I mainly used text available on the italia.is website.
